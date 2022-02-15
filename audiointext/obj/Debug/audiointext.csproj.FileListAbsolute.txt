@@ -1,0 +1,14 @@
+C:\Users\frank\source\repos\audiointext\audiointext\bin\Debug\audiointext.exe.config
+C:\Users\frank\source\repos\audiointext\audiointext\bin\Debug\audiointext.exe
+C:\Users\frank\source\repos\audiointext\audiointext\bin\Debug\audiointext.pdb
+C:\Users\frank\source\repos\audiointext\audiointext\obj\Debug\audiointext.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\audiointext\audiointext\obj\Debug\audiointext.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\audiointext\audiointext\obj\Debug\audiointext.exe
+C:\Users\frank\source\repos\audiointext\audiointext\obj\Debug\audiointext.pdb
+C:\Users\frschroeder\source\repos\audiointext\audiointext\bin\Debug\audiointext.exe.config
+C:\Users\frschroeder\source\repos\audiointext\audiointext\bin\Debug\audiointext.exe
+C:\Users\frschroeder\source\repos\audiointext\audiointext\bin\Debug\audiointext.pdb
+C:\Users\frschroeder\source\repos\audiointext\audiointext\obj\Debug\audiointext.csproj.AssemblyReference.cache
+C:\Users\frschroeder\source\repos\audiointext\audiointext\obj\Debug\audiointext.csproj.CoreCompileInputs.cache
+C:\Users\frschroeder\source\repos\audiointext\audiointext\obj\Debug\audiointext.exe
+C:\Users\frschroeder\source\repos\audiointext\audiointext\obj\Debug\audiointext.pdb
